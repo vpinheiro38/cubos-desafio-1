@@ -1,16 +1,17 @@
-# cubos_desafio_1
+# Flutter | Módulo 01 - Desafio
+## Desafio da Unidade
+### 🥳 Chegou o DESAFIO!!!
 
-A Flutter challenge proposed by Cubos Academy course
+Nesse dasafio vamos usar o aprendizado do Módulo 01, vamos utilizar:
 
-## Getting Started
+- Inicar um App (main.dart, void main(), RunApp)
+- Criar Estrutura MVC
+- Criar nossa View (Scaffold, Column, Expanded, Container, ListView, Image, Text, entre outros)
+- Acessar TMDB API (https://developers.themoviedb.org/3/getting-started/introduction)
+- Modelar Classes
+- Fazer o Parser do JSON
+- Usar Future, async e await
 
-This project is a starting point for a Flutter application.
+## Bom, nosso desafio é contruir o seguinte app:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Imagem do primeiro desafio de Flutter](https://i.imgur.com/WpEmm7b.png)
